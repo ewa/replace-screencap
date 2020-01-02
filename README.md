@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Replace Screencap
 
-You can use the [editor on GitHub](https://github.com/ewa/replace-screencap/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site and repository is dedicated to the basic idea that sharing content using screen captures / shots sucks.  Content that previously had structure and (somewhat) rich information is reduced to an image, and that means things like incompatibility with screen readers (and thus inaccesibility for blind people) unless someone takes the time to manually retype any text, inability to do text searches, posts / threads / conversations awkwardly broken into separate images, links that don't work (or really, aren't links at all any more, but look like them), and so on.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why?
 
-### Markdown
+Because it's annyoying, limiting, and I believe we can do better.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### How?
 
-```markdown
-Syntax highlighted code block
+As von Moltke said<sup>[1](#footnote1)</sup>, no plan survives contact with the enemy.  However, here are the main steps as I currently imagine them:
 
-# Header 1
-## Header 2
-### Header 3
+  1. Identify the advantages (relative to what?) of sharing by screencap, and how/why it became so common.
+  2. Identify the kinds of information (including appearance) that users would like to see included in a better "screenshot."
+  3. Develop a (first draft) format that captures the users' needs, including underlying application needs associated with capturing, sharing, and displaying them.
+  4. Identify and head-off (as much as possible) application developers' potential objections
+    a. And identify what can be done without the involvement of the application developers
+  5. Push, network, cajole, cooperate with, etc. application developers to get this functionality integrated.
 
-- Bulleted
-- List
+## What is this site?
 
-1. Numbered
-2. List
+This web page is part of a [GitHub repository](https://github.com/ewa/replace-screencap/) for the project.  This page is not editable (unless you have write access to the code repository), but there is a [replace-screencap wiki](https://github.com/ewa/replace-screencap/wiki) that is meant to be editable by anyone.  If you're interested in any of this, go to the wiki and start adding ideas.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ewa/replace-screencap/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a name="footnote1">1</a>: What he actually said was significantly wordier, and in German.  See his [Wikipedia page](https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Elder#Moltke's_theory_of_war).
